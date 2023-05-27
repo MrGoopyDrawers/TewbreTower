@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>TewbreTower</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>TewbreTower</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+
+    <Import Project="..\btd6.targets" />
+
+    <ItemGroup>
+      <None Remove="bigDart.png" />
+      <None Remove="doofenshmirtz.png" />
+      <None Remove="Icon.png" />
+      <None Remove="macoroni.png" />
+      <None Remove="MacProj.png" />
+      <None Remove="PlaceTewbreSound.wav" />
+      <None Remove="sabre.png" />
+      <None Remove="sabre2.png" />
+      <None Remove="sabre3.png" />
+      <None Remove="sabre4.png" />
+      <None Remove="sabre5.png" />
+      <None Remove="spagethhi.png" />
+      <None Remove="spaghettiImg.png" />
+      <None Remove="tewbre-Icon.png" />
+      <None Remove="tewbre-Portrait.png" />
+      <None Remove="TewbreAlmostLost.wav" />
+      <None Remove="TewbreDefeat.wav" />
+      <None Remove="TewbreMainImage.png" />
+      <None Remove="TewbreMassiveDawg.wav" />
+      <None Remove="TewbreSnipeSound1.wav" />
+      <None Remove="TewbreSnipeSound2.wav" />
+      <None Remove="tewity.png" />
+      <None Remove="tewity2.png" />
+      <None Remove="tewity3.png" />
+      <None Remove="tewity4.png" />
+      <None Remove="tewity5.png" />
+      <None Remove="waluigiIcon.png" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\bin\Debug\net6.0\TewbreTower.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\bin\Debug\net6.0\TewbreTower.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\TewbreTower.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\TewbreTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\TewbreTower.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\TewbreTower.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\TewbreTower.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\TewbreTower.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\refint\TewbreTower.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\TewbreTower\obj\Debug\net6.0\ref\TewbreTower.dll
